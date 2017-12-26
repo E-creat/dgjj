@@ -8,6 +8,9 @@ public class Dgjj {
 		System.out.println("dugjj!!!!ooooooo");
 		System.out.println("dugjj!!!!ooooooo");
 		System.out.println("dugjj!!!!ooooooo");
+		System.out.println("dugjj!!!!");
+		System.out.println("dugjj!!!!");
+		System.out.println("dugjj!!!!");
 	}
 
 }
